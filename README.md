@@ -3,8 +3,11 @@
 
 This isn't an 'awesome' list... it will always be much shorter than that.  It's more a curation of reference material, which I think would have a broad audience.
 
-This is a work in progress.
+🚧 This is a work in progress. 🚧
 
-Aspects covered (more to come):
-- Analytics
-- Approaching projects
+Aspects covered (incl. more to come):
+- [Analytics](resources/analytics.md)
+- [Approaching projects](resources/approaching-projects.md)
+- Statistics
+- Machine learning
+- Python development
