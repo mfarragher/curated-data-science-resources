@@ -19,12 +19,17 @@
 - 📁 [Minimally Sufficient Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas): also by Petrou, this repo is a handy resource for narrowing down the functionality of Pandas to a few dozen methods and general good practice.
 - 📃 [Pandas: the two cultures](https://datapythonista.me/blog/pandas-the-two-cultures.html): why does Pandas have so many methods in the API for doing the same thing?  A lot of that is due to how the library caters for two 'cultures' of users: i) statisticians; ii) machine learning practitioners.  This post by Pandas maintainer Marc Garcia is a spotlight on the cultures.
 - 🕸 [Practical Business Python](https://pbpython.com/): blog with many applications of Pandas and the visualisation libraries for business problems.
-- [Real Python's Matplotlib Guide](https://realpython.com/python-matplotlib-guide): Matplotlib documentation can be daunting for beginners.  This guide is a nice overview of the Matplotlib interface.
+- 📃 [Real Python's Matplotlib Guide](https://realpython.com/python-matplotlib-guide): Matplotlib documentation can be daunting for beginners.  This guide is a nice overview of the Matplotlib interface.
 
 ### Augmenting knowledge
 - 📃 [Diving into Pandas is faster than reinventing it](http://deanla.com/dont_reinvent_pandas.html): examples that show the power of method chaining.
-- [Chris Albon's data wrangling posts](https://chrisalbon.com/#python)
+- 📁 [Chris Albon's data wrangling posts](https://chrisalbon.com/#python)
+- 📃 [Wes McKinney | Apache Arrow and the "10 Things I Hate About pandas"](https://wesmckinney.com/blog/apache-arrow-pandas-internals/): learnings from Wes McKinney on his time spent developing Pandas.  The post touches upon the early history of Pandas and how the library wasn't developed with large datasets in mind (e.g. 100+ GB size).  It was written in 2017 and there's been immense progress since then with libraries that can do sophisticated parallel computing on large datasets.
+- 🕸 [Tom Augspurger's blog](https://tomaugspurger.github.io/archives.html), in particular the series of posts on 'modern idiomatic Pandas', e.g. [time series](https://tomaugspurger.github.io/modern-7-timeseries.html).
 
 # SQL
 - SQLhabit.com
 - SQLzoo
+
+# Visualisation
+- 📘 [Storytelling with Data](http://www.storytellingwithdata.com/): reference on how to do effective 'data storytelling' with visualisations, touching upon aspects such as design and types of charts.
