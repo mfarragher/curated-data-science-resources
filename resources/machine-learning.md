@@ -14,7 +14,7 @@
 # General
 - 🕸 [Machine Learning Mastery](https://machinelearningmastery.com/): range of tutorials and blog posts, from beginner to advanced concepts.  Blog is regularly updated.
 - 🎙 [Linear Digressions](http://lineardigressions.com/)
-- 🎙 [Lex Fridman's AI Podcast](ttps://lexfridman.com/ai/)
+- 🎙 [Lex Fridman's AI Podcast](https://lexfridman.com/ai/)
 
 # Advanced references
 - 📘 [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/): Hastie and Tibshirani textbook with applications in R.  Online book is offered free.  Authors Hastie and Tibshirani have over 15 hours of [lecture videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) on YouTube to supplement the book.
