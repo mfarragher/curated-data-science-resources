@@ -1,9 +1,10 @@
 **Key:**
-- 📽 Video(s)
 - 📃 Article
 - 📘 Book
 - 📁 Repo / set of articles
 - 🕸 Website / blog
+- 📽 Video(s)
+- 🎙 Podcast
 
 # Inspiration
 - 📁 [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/): excellent template to use as a structure for a data science project.  With enough use of this approach it's also inspired my thinking on how to structure a 'mono repo' that contains multiple data science projects in one codebase.

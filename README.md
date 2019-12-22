@@ -8,6 +8,6 @@ This isn't an 'awesome' list... it will always be much shorter than that.  It's 
 Aspects covered (incl. more to come):
 - [Analytics](resources/analytics.md)
 - [Approaching projects](resources/approaching-projects.md)
-- Statistics
-- Machine learning
+- [Statistics](resources/statistics.md)
+- [Machine learning](resources/machine-learning.md)
 - Python development

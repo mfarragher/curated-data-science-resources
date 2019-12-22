@@ -1,9 +1,10 @@
 **Key:**
-- 📽 Video(s)
 - 📃 Article
 - 📘 Book
 - 📁 Repo / set of articles
 - 🕸 Website / blog
+- 📽 Video(s)
+- 🎙 Podcast
 
 # Python
 ## Analytics libraries
@@ -28,8 +29,8 @@
 - 🕸 [Tom Augspurger's blog](https://tomaugspurger.github.io/archives.html), in particular the series of posts on 'modern idiomatic Pandas', e.g. [time series](https://tomaugspurger.github.io/modern-7-timeseries.html).
 
 # SQL
-- SQLhabit.com
-- SQLzoo
+- 🕸 SQLhabit.com
+- 🕸 SQLzoo
 
 # Visualisation
 - 📘 [Storytelling with Data](http://www.storytellingwithdata.com/): reference on how to do effective 'data storytelling' with visualisations, touching upon aspects such as design and types of charts.
