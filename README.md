@@ -6,8 +6,9 @@ This isn't an 'awesome' list... it will always be much shorter than that.  It's 
 🚧 This is a work in progress. 🚧
 
 Aspects covered (incl. more to come):
-- [Analytics](resources/analytics.md)
-- [Approaching projects](resources/approaching-projects.md)
-- [Statistics](resources/statistics.md)
-- [Machine learning](resources/machine-learning.md)
+- [Approaching projects](resources/approaching-projects.md): 
+- [Analytics](resources/analytics.md): e.g. coding libraries, data visualisation
+- [Statistics](resources/statistics.md): resources for learning statistics across different levels of knowledge
+- [Machine learning](resources/machine-learning.md): resources for learning & applying machine learning across different levels of knowledge
+- [Inference](resources/inference.md): resources for making inferences from data, e.g. causal inference
 - Python development
