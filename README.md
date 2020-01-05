@@ -11,4 +11,5 @@ Aspects covered (incl. more to come):
 - [Statistics](resources/statistics.md): resources for learning statistics across different levels of knowledge
 - [Machine learning](resources/machine-learning.md): resources for learning & applying machine learning across different levels of knowledge
 - [Inference](resources/inference.md): resources for making inferences from data, e.g. causal inference
+- [Biases](resources/biases.md): information on cognitive biases and statistical biases that can be problematic with data analysis and research.
 - Python development
