@@ -16,6 +16,7 @@
 ## Pandas & plotting
 ### Starting off
 - 📽 [DataSchool.io](https://www.dataschool.io/start/): range of video tutorials for learning Pandas.  A lot of free material.
+  - 📽 _[Data analysis in Python with Pandas](https://github.com/justmarkham/pandas-videos)_: Some of the free video tutorials in a playlist for beginners.
 - 📘 Master Data Analysis with Python: Ted Petrou's neat introduction to learning Pandas with practical examples.  Author knows the mechanics of the library very well.  Even with a few years of Pandas usage I learnt a few new recipes from the book.
 - 📁 [Minimally Sufficient Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas): also by Petrou, this repo is a handy resource for narrowing down the functionality of Pandas to a few dozen methods and general good practice.
 - 📃 [Pandas: the two cultures](https://datapythonista.me/blog/pandas-the-two-cultures.html): why does Pandas have so many methods in the API for doing the same thing?  A lot of that is due to how the library caters for two 'cultures' of users: i) statisticians; ii) machine learning practitioners.  This post by Pandas maintainer Marc Garcia is a spotlight on the cultures.
