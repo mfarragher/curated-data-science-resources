@@ -6,6 +6,10 @@
 - 📽 Video(s)
 - 🎙 Podcast
 
+# Efficient and idiomatic code
+- 📃 [1000+ times! Super Python "vectorization" data processing speed up strategy](https://www.programmersought.com/article/44843867627/): great examples of vectorised code with Numpy.
+- 📃 [Beautiful Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python)
+
 # Testing
 - 📘 [Python Testing with Pytest](https://pragprog.com/book/bopytest/python-testing-with-pytest)
 - 📘 [The Art of Unit Testing](https://www.artofunittesting.com/): a book on testing practices with examples in JavaScript, but useful info for a developer regardless of language.
