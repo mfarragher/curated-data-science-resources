@@ -29,6 +29,11 @@
 - 📃 [Wes McKinney | Apache Arrow and the "10 Things I Hate About pandas"](https://wesmckinney.com/blog/apache-arrow-pandas-internals/): learnings from Wes McKinney on his time spent developing Pandas.  The post touches upon the early history of Pandas and how the library wasn't developed with large datasets in mind (e.g. 100+ GB size).  It was written in 2017 and there's been immense progress since then with libraries that can do sophisticated parallel computing on large datasets.
 - 🕸 [Tom Augspurger's blog](https://tomaugspurger.github.io/archives.html), in particular the series of posts on 'modern idiomatic Pandas', e.g. [time series](https://tomaugspurger.github.io/modern-7-timeseries.html).
 
+# R
+- 📘 [R for Data Science](https://r4ds.had.co.nz/) and an [unofficial solutions manual](https://jrnold.github.io/r4ds-exercise-solutions/)
+- 📘 [Advanced R](http://adv-r.had.co.nz/)
+- 📃 [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/)
+
 # SQL
 - 🕸 SQLhabit.com
 - 🕸 SQLzoo
