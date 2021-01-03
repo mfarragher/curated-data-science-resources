@@ -10,6 +10,7 @@
 - 📘 [The Hundred-page Machine Learning Book](http://themlbook.com/): Andriy Burkov's book is a great introduction to machine learning techniques.  The book is available on 'read first, buy later' principle.
 - 🕸 [R2D3](http://www.r2d3.us/): visual introduction to the variance–bias trade-off and decision trees.
 - 🕸 [Tensorflow's Neural Network Playground](https://playground.tensorflow.org/): interactive introduction to neural networks.  See the effects of changes to network architecture and hyperparameters on model results.
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/index.html): explanations of common ML algos (with Python code), which look deeper at their derivation.
 
 # General
 - 🕸 [Machine Learning Mastery](https://machinelearningmastery.com/): range of tutorials and blog posts, from beginner to advanced concepts.  Blog is regularly updated.

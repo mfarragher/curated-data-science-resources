@@ -7,9 +7,11 @@
 - 🎙 Podcast
 
 # Starting off
+- 📃 [Cassie Kozyrkov | Statistics: The Complete Mini Course](https://decision.substack.com/p/statistics-the-complete-mini-course): some journeys of where to explore statistics, from people who want the high-level ideas to those who want to want to go more advanced in statistics. 
 - 🕸 [Seeing Theory](https://seeing-theory.brown.edu/index.html): highly interactive introduction to statistics concepts.  A corresponding book is also in the works.
 - 📘 [OpenIntro Statistics](https://www.openintro.org/stat/)
 - 📘 [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 
 # Other topics
 - 📃 [The permutation test: A visual explanation of statistical testing](https://www.jwilber.me/permutationtest/): visual introduction to how permutation tests are calculated.
+- [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/): There are 100s of statistical tests and this shows how to link those to linear models.  ⛓️🧠 This comes with code snippets and is recommended for people with advanced stats knowledge.
