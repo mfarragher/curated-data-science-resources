@@ -14,4 +14,5 @@
 
 # Other topics
 - 📃 [The permutation test: A visual explanation of statistical testing](https://www.jwilber.me/permutationtest/): visual introduction to how permutation tests are calculated.
-- [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/): There are 100s of statistical tests and this shows how to link those to linear models.  ⛓️🧠 This comes with code snippets and is recommended for people with advanced stats knowledge.
+- 📃 [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/): There are 100s of statistical tests and this shows how to link those to linear models.  ⛓️🧠 This comes with code snippets and is recommended for people with advanced stats knowledge.
+- 📁 [Harvard CS109b | Bayesian Analysis](https://harvard-iacs.github.io/2020-CS109B/labs/lab04/): Harvard lab on Bayesian analysis with notebooks written with PyMC3, e.g. basics of Bayes rule to hierarchical models.
