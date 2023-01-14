@@ -18,6 +18,6 @@
 - 🎙 [Lex Fridman's AI Podcast](https://lexfridman.com/ai/)
 
 # Advanced references
-- 📘 [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/): Hastie and Tibshirani textbook with applications in R.  Online book is offered free.  Authors Hastie and Tibshirani have over 15 hours of [lecture videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) on YouTube to supplement the book.
+- 📘 [An Introduction to Statistical Learning](https://www.statlearning.com/): Hastie and Tibshirani textbook with applications in R.  Online book is offered free.  Authors Hastie and Tibshirani have over 15 hours of [lecture videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) on YouTube to supplement the book.
 - 📘 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/): Hastie and Tibshirani textbook on statistical learning.  More advanced than their ISL textbook - assumes much more of an undergraduate-level knowledge of linear algebra, calculus and statistics.
-- 📘 [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
+- 📘 [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/)
