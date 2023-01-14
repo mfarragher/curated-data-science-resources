@@ -27,7 +27,7 @@
 - 📃 [Diving into Pandas is faster than reinventing it](http://deanla.com/dont_reinvent_pandas.html): examples that show the power of method chaining.
 - 📁 [Chris Albon's data wrangling posts](https://chrisalbon.com/#python)
 - 📃 [Wes McKinney | Apache Arrow and the "10 Things I Hate About pandas"](https://wesmckinney.com/blog/apache-arrow-pandas-internals/): learnings from Wes McKinney on his time spent developing Pandas.  The post touches upon the early history of Pandas and how the library wasn't developed with large datasets in mind (e.g. 100+ GB size).  It was written in 2017 and there's been immense progress since then with libraries that can do sophisticated parallel computing on large datasets.
-- 🕸 [Tom Augspurger's blog](https://tomaugspurger.github.io/archives.html), in particular the series of posts on 'modern idiomatic Pandas', e.g. [time series](https://tomaugspurger.github.io/modern-7-timeseries.html).
+- 🕸 [Tom Augspurger's blog](https://tomaugspurger.github.io/archives/), in particular the series of posts on 'modern idiomatic Pandas', e.g. [time series](https://tomaugspurger.github.io/posts/modern-7-timeseries/).
 
 # R
 - 📘 [R for Data Science](https://r4ds.had.co.nz/) and an [unofficial solutions manual](https://jrnold.github.io/r4ds-exercise-solutions/)
@@ -35,8 +35,8 @@
 - 📃 [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/)
 
 # SQL
-- 🕸 SQLhabit.com
-- 🕸 SQLzoo
+- 🕸 [SQLhabit](https://www.sqlhabit.com/)
+- 🕸 [SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 # Visualisation
 - 📘 [Storytelling with Data](http://www.storytellingwithdata.com/): reference on how to do effective 'data storytelling' with visualisations, touching upon aspects such as design and types of charts.
